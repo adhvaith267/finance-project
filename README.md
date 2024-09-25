@@ -1,1 +1,5 @@
-This project is designed to automate the extraction of financial data from 10-K reports that are available in Excel format. The script processes financial statements for multiple companies, extracts important metrics like sales, assets, and tax details, and outputs them in a CSV file. The focus is on handling large datasets efficiently while ensuring data accuracy and consistency.
+# Financial Data Extraction and Analysis from 10-K Reports
+
+### Project Overview
+
+This project automates the extraction of financial data from 10-K reports in Excel format for a large set of companies. The script processes the financial statements, extracts key metrics, and stores them in a structured CSV file for further analysis. It is designed to handle data validation, cleanup, and performance optimization for large datasets.
