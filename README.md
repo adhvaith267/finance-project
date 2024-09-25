@@ -1,2 +1,1 @@
-# finance-project
-this is a data scrapping project in python
+This project is designed to automate the extraction of financial data from 10-K reports that are available in Excel format. The script processes financial statements for multiple companies, extracts important metrics like sales, assets, and tax details, and outputs them in a CSV file. The focus is on handling large datasets efficiently while ensuring data accuracy and consistency.
